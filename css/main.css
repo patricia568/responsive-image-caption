@@ -71,7 +71,8 @@ body {
     position: absolute;
     right: 20px;
     bottom: 25px;
-    width: 60%;
+    width: 20em;
+    max-width: 20em;
     padding: 15px;
     border-radius: 8px;
   }
