@@ -19,6 +19,7 @@ html {
 
 .card-title {
   font-family: 'Denk One', sans-serif;
+  margin: 0;
 }
 
 .card-body {
