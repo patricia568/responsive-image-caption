@@ -11,7 +11,7 @@ html {
   text-size-adjust: 100%;
 
   box-sizing: border-box;
-  font: normal 1rem 1.3 Georgia;
+  font: normal normal normal 1rem 1.3 Georgia;
 }
 
 *, *::before, *::after {
