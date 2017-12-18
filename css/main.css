@@ -16,3 +16,7 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+.card-title {
+  font-family: 'Denk One', sans-serif;
+}
