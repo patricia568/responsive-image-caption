@@ -20,3 +20,7 @@ html {
 .card-title {
   font-family: 'Denk One', sans-serif;
 }
+
+.card-body {
+  font-family: Georgia;
+}
