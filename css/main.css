@@ -28,6 +28,8 @@ html {
 
 .card-content {
   background-color: #e2e2e2;
+  padding: 1.5em;
+  margin-top: -5px;
 }
 
 body {
