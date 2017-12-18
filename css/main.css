@@ -70,8 +70,13 @@ body {
     position: absolute;
     right: 0;
     bottom: 0;
+    width: 60%;
+    padding: 15px;
   }
 
+  .card-content {
+    margin: 0;
+  }
   .card {
     position: relative;
   }
